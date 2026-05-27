@@ -111,19 +111,6 @@ O banco já inicia com algumas receitas inseridas automaticamente:
 
 ---
 
-# Aprendizados
-
-Este projeto foi desenvolvido para praticar:
-
-- CRUD em Android
-- SQLite
-- RecyclerView
-- Navegação entre Activities
-- Organização de projeto Android
-- Kotlin
-
----
-
 # Telas de execução:
 
 1. Tela principal: <img width="1080" height="2520" alt="Tela Principal" src="https://github.com/user-attachments/assets/93e490c8-e0ff-4de0-821d-a0e6a9e2afc7" />
